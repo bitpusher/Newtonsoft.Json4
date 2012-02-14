@@ -1,2 +1,8 @@
 
 *_ReSharper.*
+json-64905/trunk/Src/Newtonsoft.Json.Tests/bin/*
+json-64905/trunk/Src/Newtonsoft.Json.Tests/obj/*
+json-64905/trunk/Src/Newtonsoft.Json/bin/*
+json-64905/trunk/Src/Newtonsoft.Json/obj/*
+*.user
+*.suo
